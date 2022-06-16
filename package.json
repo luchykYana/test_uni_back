@@ -1,0 +1,11 @@
+{
+  "name": "test_uni_back",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pm2": "^5.2.0",
+    "mongoose": "^6.3.3",
+    "cors": "^2.8.5",
+    "joi": "^17.6.0"
+  }
+}
